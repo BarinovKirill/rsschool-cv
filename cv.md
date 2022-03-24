@@ -16,7 +16,7 @@ I am 29 years old, currently working as an electrical engineer. I live in the ci
 ***
 ### Skills and Proficiency: ###
 
-* HTML, CSS (*grid, flex, SCSS, BEM*)
+* HTML, CSS (*grid, flex, SCSS, SASS, BEM,*)
 * Git, Github
 * figma, avocode
 * gulp
